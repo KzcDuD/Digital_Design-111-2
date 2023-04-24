@@ -12,4 +12,4 @@ module Full_adder1(
 	);
 	assign  s= D_wire[1]|D_wire[2]|D_wire[4]|D_wire[7];
 	assign  c=D_wire[3]|D_wire[5]|D_wire[6]|D_wire[7];
-	endmodule
+endmodule

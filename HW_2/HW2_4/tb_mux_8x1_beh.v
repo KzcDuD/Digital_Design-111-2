@@ -1,7 +1,7 @@
 module tb_MUX8x1;
 reg A,B,C,D;
 wire F;
-MUX8x1 uut(
+mux_8x1_beh uut(
 .A(A),
 .B(B),
 .C(C),
