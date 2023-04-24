@@ -1,4 +1,4 @@
-/ Description of D latch (transparent latch)
+//Description of D latch (transparent latch)
 // See Fig. 5-6 
 
 module D_latch (Q, D, En);
